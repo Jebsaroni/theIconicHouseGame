@@ -847,3 +847,106 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.24-19.47.21:212][195]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.412ms to complete.
 [2021.01.24-19.51.12:107][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2021.01.24-19.51.12:108][881]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.005
+[2021.01.24-20.01.12:579][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.24-20.01.12:580][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.005
+[2021.01.24-20.11.13:507][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.01.24-20.11.13:508][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.007
+[2021.01.24-20.21.14:229][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.01.24-20.21.14:230][255]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.006
+[2021.01.24-20.24.30:929][843]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.24-20.24.30:957][843]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-20.24.30:957][843]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-23.19.01:801][850]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.24-23.19.01:852][850]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-23.19.01:852][850]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-23.19.11:400][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.24-23.19.11:401][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.004
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0CB7A72-4B8C-48EF-FE98-6CA2AE5565EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=9d0c597c4c2e1c2f6ba063b97ce8782b%7Ca54244827cda46349bd8f68c6b10f438%7C0035e515-fb76-4a03-a7d3-50dd32980c19&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x18dce8d7eb0 [can pipeline])
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.206.102.70) port 443 (#0))
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: 0000018D8C582B00: libcurl info message cache 7 (Closing connection 0)
+[2021.01.24-23.19.21:424][910]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0CB7A72-4B8C-48EF-FE98-6CA2AE5565EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=9d0c597c4c2e1c2f6ba063b97ce8782b%7Ca54244827cda46349bd8f68c6b10f438%7C0035e515-fb76-4a03-a7d3-50dd32980c19&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.01.24-23.29.12:701][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.24-23.29.12:702][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.006
+[2021.01.24-23.39.13:242][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.24-23.39.13:242][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.006
+[2021.01.24-23.49.14:056][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.01.24-23.49.14:057][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.006
+[2021.01.24-23.59.14:684][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.24-23.59.14:684][608]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.004
+[2021.01.25-00.06.26:580][501]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.25-00.06.27:153][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.25-00.06.27:154][501]PIE: New page: PIE session: Untitled_1 (Jan 24, 2021, 8:06:27 AM)
+[2021.01.25-00.06.27:157][501]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.25-00.06.27:159][501]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.25-00.06.27:159][501]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.25-00.06.27:165][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004799s)
+[2021.01.25-00.06.27:166][501]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.25-00.06.27:167][501]LogPlayLevel: PIE: World Init took: (0.002759s)
+[2021.01.25-00.06.27:167][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008150s)
+[2021.01.25-00.06.27:171][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.01.25-00.06.27:173][501]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.25-00.06.27:173][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.25-00.06.27:173][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.25-00.06.27:173][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.25-00.06.27:173][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.25-00.06.27:173][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.25-00.06.27:173][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.25-00.06.27:173][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.25-00.06.27:173][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.25-00.06.27:174][501]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.25-00.06.27:174][501]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.25-00.06.27:183][501]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.25-00.06.27:183][501]LogAudioMixer: Display: 1: FrontRight
+[2021.01.25-00.06.27:201][501]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.25-00.06.27:202][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.25-00.06.27:202][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.25-00.06.27:202][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.25-00.06.27:207][501]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.25-00.06.27:207][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.25-00.06.27:207][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.25-00.06.27:220][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.25-00.06.27:220][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.25-00.06.27:220][501]LogInit: FAudioDevice initialized.
+[2021.01.25-00.06.27:220][501]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2021.01.25-00.06.27:237][501]LogLoad: Game class is 'GameModeBase'
+[2021.01.25-00.06.27:241][501]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-16.06.27
+[2021.01.25-00.06.27:244][501]LogWorld: Bringing up level for play took: 0.003538
+[2021.01.25-00.06.27:244][501]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.01.25-00.06.27:253][501]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2021.01.25-00.06.27:254][501]PIE: Server logged in
+[2021.01.25-00.06.27:256][501]PIE: Play in editor total start time 0.109 seconds.
+[2021.01.25-00.06.35:697][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.25-00.06.35:697][495]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.25-00.06.35:697][495]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.25-00.06.35:698][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.25-00.06.35:711][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.25-00.06.35:755][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.25-00.06.35:759][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.25-00.06.35:760][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.25-00.06.35:761][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.25-00.06.35:781][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.25-00.06.35:784][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.01.25-00.06.35:844][496]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.25-00.06.44:724][520]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.01.25-00.07.35:598][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.25-00.08.06:153][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.01.25-00.08.32:402][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.25-00.09.01:601][394]LogSlate: Window 'Message' being destroyed
+[2021.01.25-00.09.01:607][394]Message dialog closed, result: Yes, title: Message, text: theTower_00_Demo already exists. Do you want to replace it?
+[2021.01.25-00.09.01:607][394]LogSlate: Window 'Save Level As' being destroyed
+[2021.01.25-00.09.01:643][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/theTower_00_Demo" FILE="F:/theIconicHouse_2020-2022/theIconicHouseGame/theIconicHouseDev/Content/theTower_00_Demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.25-00.09.01:647][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.25-00.09.02:037][394]LogSavePackage: Moving 'F:/theIconicHouse_2020-2022/theIconicHouseGame/theIconicHouseDev/Saved/theTower_00_DemoE19E60B64D67439737E29A8990571063.tmp' to 'F:/theIconicHouse_2020-2022/theIconicHouseGame/theIconicHouseDev/Content/theTower_00_Demo.umap'
+[2021.01.25-00.09.02:076][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/theTower_00_Demo_BuiltData" FILE="F:/theIconicHouse_2020-2022/theIconicHouseGame/theIconicHouseDev/Content/theTower_00_Demo_BuiltData.uasset" SILENT=true
+[2021.01.25-00.09.02:168][394]LogSavePackage: Moving 'F:/theIconicHouse_2020-2022/theIconicHouseGame/theIconicHouseDev/Saved/theTower_00_Demo_BuiltDataC9B110E249D58266464A55B1C9E84E2A.tmp' to 'F:/theIconicHouse_2020-2022/theIconicHouseGame/theIconicHouseDev/Content/theTower_00_Demo_BuiltData.uasset'
+[2021.01.25-00.09.02:177][394]LogFileHelpers: Saving map 'theTower_00_Demo' took 0.558
+[2021.01.25-00.09.02:181][394]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.25-00.09.02:181][394]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/theTower_00_Demo_BuiltData.theTower_00_Demo_BuiltData
+[2021.01.25-00.09.02:181][394]LogContentValidation: Display: Validating World /Game/theTower_00_Demo.theTower_00_Demo
