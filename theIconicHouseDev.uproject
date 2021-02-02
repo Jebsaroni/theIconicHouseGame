@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{57B44754-4D8F-83AF-02CA-60A67B638233}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "theIconicHouseDev",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
